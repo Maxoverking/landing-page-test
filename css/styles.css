@@ -337,7 +337,9 @@ background: linear-gradient(109.31deg,
 /* ///////////// */
 
 .comimg__soon{
-
+	display: flex;
+    justify-content: center;
+	margin: 94px 0px 121px;
 }
 
 
@@ -347,7 +349,6 @@ background: linear-gradient(109.31deg,
 
 
 .container__register{
-	padding: 121px 0px ;
 	margin: 0px  188px;
 }
 .register__wrapper{
