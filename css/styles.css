@@ -166,7 +166,7 @@ cursor: pointer;
 .section__hero{
 	padding: 122px 0px 218px;
 	background-color: var(--black-color);
-	background-image: url(../images/img/hero-img.jpg);
+	background-image: url(../images/img/hero-img.webp);
 	background-size: 1010px;
 	object-fit: cover;
 	background-repeat: no-repeat;
